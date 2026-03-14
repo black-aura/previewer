@@ -1,0 +1,7 @@
+#!/bin/bash
+
+INITIAL_CLICK_X=270 INITIAL_CLICK_Y=85 \
+    NEXT_BUTTON_X=1000 NEXT_BUTTON_Y=97 \
+    PRESET_DURATION=4 \
+    PRESET_COUNT=255 \
+    ../generate.sh
